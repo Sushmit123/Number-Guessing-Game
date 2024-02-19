@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+C:\Users\Sushmit\Downloads\Jspider java\prodigy infotech\Task 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3171111961.index
+\NumberGame\src\main\java
+C:\Users\Sushmit\Downloads\Jspider java\prodigy infotech\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1832804478.index
+\NumberGuessing\src\main\java
+C:\Users\Sushmit\Downloads\Jspider java\prodigy infotech\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2297480739.index
+\Task2\src\main\java
+C:\Users\Sushmit\Downloads\Jspider java\prodigy infotech\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2196647488.index
+\NumberGuessingGame\src\main\java
+C:\Users\Sushmit\Downloads\Jspider java\prodigy infotech\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3171111961.index
+\NumberGame\src\main\java
